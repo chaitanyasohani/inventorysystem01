@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 16, 2015, 10:07:32 PM
+    Author     : leo
+*/
+* {font-family: 'Roboto', sans-serif;}
+
+body {background-color: #1A70FC;}
+.c {margin-top: 50px;}
+.clr {clear: both;}
+.c1 {width: 500px;margin: auto;border:1px solid #1A70FC;box-shadow: -4px 4px 15px 4px #fff;padding: 10px 20px;}
+.c1 h1 {text-align: center;color:#fff; }
+.c1 ul {display: inline-block;float: left;}
+.c1 ul li {float: left;margin-left: 10px;list-style-type:none;}
+.c1 ul li a {background-color: #fff;padding: 10px;text-decoration: none;color:#777;}
+.c1 ul li a:hover {background-color:#1A70FC;transition: all 350ms linear 0s;padding: 10px;text-decoration: none;color:#fff;box-shadow: 0px -3px 0px 3px #fff;}
+.c1 h3 {text-align: center;color: #fff;border-bottom: 3px solid #fff;}
+.g1 {line-height: 2;}
+.g1 input {width: 100%;height: 34px;}
+.g1 label {color:#fff;font-size: 17px;font-weight: bold;}
+.go {width: 100%;text-align: right;margin-top: 10px;}
+.go1 button {width: 17%;float: right;background-color: transparent;border: none;box-shadow: 0px 3px 9px 4px #fff;color: #fff;height: 40px;}
+.go2 button {width: 17%;float: right;background-color: transparent;border: none;box-shadow: 0px 3px 9px 4px #fff;color:#fff;height: 40px;}
+.goo a {color: #fff;text-decoration: none;}
+.goo a:hover {text-decoration: none;letter-spacing: 1px;transition: all 350ms linear 0s;border-bottom: 1px solid #fff;color: #fff;text-decoration: none;}
+.goo a i {font-size: 50px;text-decoration: none;}
+.goo a i:hover {font-size: 50px;text-decoration: none !important;color:#102A54;}
+.b1 {margin: 25px 437px;}
+.b1 ul {display: inline-block;float: left;}
+.b1 ul li {float: left;margin-left: 10px;list-style-type:none;}
+.b1 ul li a {background-color: #fff;padding: 10px;text-decoration: none;color:#777;}
+.b1 ul li a:hover {background-color:#1A70FC;transition: all 350ms linear 0s;padding: 10px;text-decoration: none;color:#fff;box-shadow: 0px -3px 0px 3px #fff;}
+
+/*--------------new css--------------*/
+.ooo {width:1000px;margin: auto;}
+.ooo1 {width: 50%;float:left;}
+.ooo1 form {line-height: 2;}
+.ooo1 form strong {color: #fff;font-size: 15px;text-align: center;}
+.ooo2 {width: 50%;float:left;}
+.ooo2 form {float: right; width: 100%;}
+.ooo2 form table {width: 100% !important;}
+.ooo3 {padding: 20px;background: #fff;font-size: 20px;font-weight: 800;}
+.devvv {border: 3px solid #fff;}
+.devv th {padding: 20px;background: #fff;}
+.devv1 td {padding: 15px;background: #fff;text-align: center;}
+
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 22, 2015, 8:57:46 AM
+    Author     : leo
+*/
+
